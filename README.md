@@ -23,6 +23,6 @@
    
       1. **Linera Regression**
       2. **XGBoost**
-      3. **Randome Forest(Ensemble)**
+      3. **Random Forest(Ensemble)**
 
  For more details, please refer `House price prediction_Recordings.pptx` file.
