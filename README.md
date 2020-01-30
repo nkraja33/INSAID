@@ -21,8 +21,8 @@
 	  
    I have applied the Machine Learning Algorthims to complete this project.
    
-      1. Linera Regression
-	  2. XGBoost
-	  3. Randome Forest(Ensemble)
+      1. **Linera Regression**
+      2. **XGBoost**
+      3. **Randome Forest(Ensemble)**
 
  For more details, please refer `House price prediction_Recordings.pptx` file.
